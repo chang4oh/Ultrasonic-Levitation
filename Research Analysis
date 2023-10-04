@@ -1,16 +1,21 @@
 Atom went through many iterations and after finding out that it wasn't going to work out 
 I decided to work on object control from external source instead of individual objects. 
+
 This I tried all sources of energy input ranging from
 thermal reactant movement, 
 infrared & humidity controlled from static field, 
-light reactant material, 
-and ferrofluid control from magnet. 
+infrared reactant material (foam), 
+and ferrofluid control from magnet.
 
-These inputs didn't give out the precision output needed to control objects. 
-With modification with one of my early entry to microbot, I envisioned the best
+The concept I couldn't wrap my head around ranging from
+blowing precision air in a encased cylinder containing foam balls
+pyrolytic graphite floating over neoydynium magnet (very expensive)
+light reactant material
+
+These experiments didn't give out the precision output needed to control objects. 
+With modification with one of my early entry to microbot (MFP), I envisioned the best
 object control comes from ultrasonic sound. It has power to move and lift objects,
-but also very complex and precision controlled. Not to mention costs going over my
-estimates.
+but also very complex and precision controlled. 
 
 
 
