@@ -1,16 +1,24 @@
-I designed (1A) model tennis ball encased plastic shell with neodynium magnet. This is to
+Design (1A) is model tennis ball encased plastic shell with neodynium magnet. This is to
 represent modified Atom Ball with defensive shell with inside function that can bounce rather 
 than impact damege from drops and collision from other objects while maintaining balanced
 magnetic attraction from each other Balls.
 
-I designed (1P) cardboard model with the concept of static electricity plate controlled by
+Design (1P) is cardboard model with the concept of static electricity plate controlled by
 infrared direction of each sticks to create complex geometry of lines that objects trace.
 Plate has hole size of mini styrofoam ball which the plate powered from the connected
 ring of static generator. Under the plate has styrofoam reserve, waiting to be activated 
 to trace the lines.
+
+Design (0U), I used 2x 36 transducers tractor beam levitator from UpnaLab.
+The effect of tractor beam gave strong and focused standing wave to lock the object in
+place mid air, the only downside is that movement cannot be controlled and the coverage
+area is centered with significant decrease in standing wave strength.
 
 Design (1U) is SonicSurface design from UpnaLab. Uses 2x 256 ultrasonic transducer board 
 both from opposing side to meet optimal standing wave height. The defect chips prevented
 from opperating but did give general idea of the function between board program and 
 Ultraino software.
 
+
+
+Sources: 
